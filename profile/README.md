@@ -1,4 +1,4 @@
-# Bolt Card organisation
+# Bolt Card
 
 bitcoin payments over the lightning network with a contactless payment card
 
