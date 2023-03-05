@@ -1,5 +1,13 @@
 # Bolt Card
 
-bitcoin payments over the lightning network with a contactless payment card
+:zap: A contactless payment card for making payments with bitcoin over the lightning network :zap:
 
-open source - worldwide - permission free
+:busts_in_silhouette: Open Source  
+:globe_with_meridians: Worldwide  
+:smile: Permission Free
+ 
+:iphone: [Bolt Card wallet app on Android](https://play.google.com/store/apps/details?id=com.boltcard.boltcard)
+
+:world_map: [Map of merchants accepting the bolt card](https://btcmap.org/map?nfc)
+
+:wave: [Bolt Card telegram group](https://t.me/bolt_card)
