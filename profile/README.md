@@ -14,4 +14,6 @@
 
 :world_map: [Merchants map](https://btcmap.org/map?nfc)
 
+:nerd_face: [Technology documents](https://github.com/boltcard/boltcard/blob/main/docs/TECHNOLOGY.md)
+
 :wave: [Telegram group](https://t.me/bolt_card)
