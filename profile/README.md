@@ -6,10 +6,12 @@
 :globe_with_meridians: Worldwide  
 :smile: Permission Free
  
-:iphone: [Bolt Card wallet app on Android](https://play.google.com/store/apps/details?id=com.boltcard.boltcard)
+:dizzy:  [Overview](https://www.boltcard.org/)
+ 
+:iphone: [Bolt Card Wallet app](https://boltcardwallet.com/)
 
-:tv: [Installing the Bolt Card Hub](https://www.youtube.com/watch?v=Q5Iw7d6xVGA)
+:tv: [Youtube channel](https://www.youtube.com/@boltcard)
 
-:world_map: [Map of merchants accepting the bolt card](https://btcmap.org/map?nfc)
+:world_map: [Merchants map](https://btcmap.org/map?nfc)
 
-:wave: [Bolt Card telegram group](https://t.me/bolt_card)
+:wave: [Telegram group](https://t.me/bolt_card)
