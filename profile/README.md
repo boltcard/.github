@@ -10,6 +10,8 @@
  
 :iphone: [Bolt Card Wallet app](https://boltcardwallet.com/)
 
+:iphone: [Bolt Card PoS app](https://github.com/boltcard/bolt-card-pos)
+
 :tv: [Youtube channel](https://www.youtube.com/@boltcard)
 
 :world_map: [Merchants map](https://btcmap.org/map?nfc)
