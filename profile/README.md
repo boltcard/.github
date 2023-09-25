@@ -18,6 +18,8 @@
 
 :nerd_face: [Technology documents](https://github.com/boltcard/boltcard/blob/main/docs/TECHNOLOGY.md)
 
+:skull: [Responsible disclosure](https://github.com/boltcard/boltcard/blob/main/SECURITY.md)
+
 :wave: [Telegram group](https://t.me/bolt_card)
 
 :thumbsup: [Geyser fund](https://geyser.fund/project/boltcard/)
